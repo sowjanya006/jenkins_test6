@@ -1,0 +1,10 @@
+<mod ver="21" opt="7" id="35d27734-d8fc-492f-b719-ff992c86322e" lid="4" md5="0973d52ef17ceee1441e6292293a0a79">
+ <funcs>
+  <func id="2" nam="sub" scp="2" src="1" srcid="1" decl="int sub(int,int)" md5="c0fd007b9a13d323e9064286aa492890">
+   <coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
+   <metrics mccabe="1" depth="1" calls="0" stmts="2"/>
+  </func>
+ </funcs>
+ <types/>
+ <vars/>
+</mod>

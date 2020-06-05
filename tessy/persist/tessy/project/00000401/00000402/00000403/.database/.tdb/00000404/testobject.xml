@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testobject name="sub" type="0" id="1028" foreign_id="0" testdata_id="1" state_mask="0x1188" last_id="0" child_count="2" uuid="2cda5b14-46e8-4ce1-a1ea-80f00af485e3" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617830" last_synchronized="0">
+	<version value="4.2.8">
+	</version>
+	<properties>
+	</properties>
+	<testitems>
+		<testcase name="" type="1" id="1030" foreign_id="0" testdata_id="1073741823" state_mask="0x1100" testcase_number="1" child_count="1" description="" specification="" comment="" uuid="8f02ea15-4e2f-4cbc-860b-1600f8a19944" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617806" last_synchronized="0">
+			<teststep name="" id="1031" foreign_id="0" testdata_id="1073741824" type="1" state_mask="0x1100" repeat_count="1" description="" specification="" comment="" uuid="7d569707-52e1-4b6e-85b9-790cfc3bddef" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617806" last_synchronized="0">
+			</teststep>
+		</testcase>
+		<testcase name="" type="1" id="1032" foreign_id="0" testdata_id="1073741825" state_mask="0x1100" testcase_number="2" child_count="1" description="" specification="" comment="" uuid="cc5dcd6d-9ef3-4f8f-9d7d-9270fc7f98fb" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617830" last_synchronized="0">
+			<teststep name="" id="1033" foreign_id="0" testdata_id="1073741826" type="1" state_mask="0x1100" repeat_count="1" description="" specification="" comment="" uuid="907c7d07-77ef-4447-aafd-fa74325aa938" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617830" last_synchronized="0">
+			</teststep>
+		</testcase>
+	</testitems>
+</testobject>
