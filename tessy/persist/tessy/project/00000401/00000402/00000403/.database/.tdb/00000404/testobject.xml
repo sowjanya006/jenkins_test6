@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testobject name="sub" type="0" id="1028" foreign_id="0" testdata_id="1" state_mask="0x1188" last_id="0" child_count="2" uuid="2cda5b14-46e8-4ce1-a1ea-80f00af485e3" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617830" last_synchronized="0">
+<testobject name="sub" type="0" id="1028" foreign_id="0" testdata_id="1" state_mask="0x1188" last_id="0" child_count="1" uuid="2cda5b14-46e8-4ce1-a1ea-80f00af485e3" testitem_state_mask="0x80" usercode_state_mask="0x00" last_modified="1591336617830" last_synchronized="0">
 	<version value="4.2.8">
 	</version>
 	<properties>
